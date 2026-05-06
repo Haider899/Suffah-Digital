@@ -48,11 +48,11 @@ export default function Footer() {
             </li>
             <li style={{ display: "flex", gap: "10px", alignItems: "center" }}>
               <span style={{ color: "var(--accent)" }}>📞</span>
-              <span>+92 312 3456789</span>
+              <span>+92 349 6000899</span>
             </li>
             <li style={{ display: "flex", gap: "10px", alignItems: "center" }}>
               <span style={{ color: "var(--accent)" }}>✉️</span>
-              <span>info@quranacademy.com</span>
+              <span>info@suffahdigital.com</span>
             </li>
           </ul>
         </div>

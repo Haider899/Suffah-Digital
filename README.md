@@ -53,7 +53,7 @@ The admin dashboard can be accessed at `/admin`.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Support
-For any inquiries or technical support, please contact us at info@suffahdigital.com or via WhatsApp at +92 312 3456789.
+For any inquiries or technical support, please contact us at info@suffahdigital.com or via WhatsApp at +92 349 6000899.
 
 ---
 Built with ❤️ by Suffah Digital Team

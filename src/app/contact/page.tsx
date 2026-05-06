@@ -38,8 +38,8 @@ export default function ContactPage() {
               <h2 style={{ marginBottom: "30px" }}>Get in Touch</h2>
               {[
                 { icon: "📍", label: "Address", value: "123 Islamic Center Road, City, Country" },
-                { icon: "📞", label: "Phone", value: "+92 312 3456789" },
-                { icon: "✉️", label: "Email", value: "info@quranacademy.com" },
+                { icon: "📞", label: "Phone", value: "+92 349 6000899" },
+                { icon: "✉️", label: "Email", value: "info@suffahdigital.com" },
                 { icon: "🕐", label: "Office Hours", value: "Mon–Sat: 9am – 9pm GMT" },
               ].map(item => (
                 <div key={item.label} style={{ display: "flex", gap: "16px", marginBottom: "25px", alignItems: "start" }}>

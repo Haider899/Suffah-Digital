@@ -61,7 +61,7 @@ export default function AdmissionPage() {
         </p>
         <div style={{ marginTop: "30px", padding: "20px", backgroundColor: "#d1fae5", borderRadius: "12px", maxWidth: "400px" }}>
           <p style={{ color: "var(--primary)", fontWeight: 600 }}>📞 For urgent inquiries, WhatsApp us directly:</p>
-          <p style={{ color: "var(--primary)", marginTop: "8px" }}>+92 312 3456789</p>
+          <p style={{ color: "var(--primary)", marginTop: "8px" }}>+92 349 6000899</p>
         </div>
       </div>
     );
@@ -103,7 +103,7 @@ export default function AdmissionPage() {
                 <div>
                   <label htmlFor="phone" style={{ display: "block", fontWeight: 600, marginBottom: "8px" }}>Phone / WhatsApp *</label>
                   <input id="phone" name="phone" type="tel" required value={formData.phone} onChange={handleChange}
-                    placeholder="+92 312 3456789"
+                    placeholder="+92 349 6000899"
                     style={{ width: "100%", padding: "12px 16px", border: "1px solid var(--border)", borderRadius: "8px", fontSize: "1rem", outline: "none" }} />
                 </div>
                 <div>
